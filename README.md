@@ -40,13 +40,7 @@ Crypto-Tracker/
 ├── style.css          
 ├── coin.css           
 └── .vscode/            
-## Installation & Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/content-cn/Crypto-Tracker.git
-   ```
----
 ## API Integration
 
 This project uses the CoinGecko API to fetch cryptocurrency data.
